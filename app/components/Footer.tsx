@@ -10,12 +10,12 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1">
             <h3 className="font-bold text-lg mb-3">Weglio</h3>
             <p className="text-gray-400 text-sm mb-3">
-              Premium tech gadgets and electronics at wholesale prices. Fast delivery worldwide.
+              La community dei rivenditori tech. Qualita garantita, spedizioni rapide in tutta Europa.
             </p>
             <div className="text-gray-400 text-sm space-y-1">
               <p>info@weglio.com</p>
-              <p>34 Drottninggatan</p>
-              <p>Stockholm 111 51, Sweden</p>
+              <p>Via Torino 68</p>
+              <p>20123 Milano, Italia</p>
             </div>
           </div>
 
@@ -49,10 +49,10 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 pt-6 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-3 text-sm text-gray-500">
-          <p>&copy; {year} Weglio AB. All rights reserved.</p>
+          <p>&copy; {year} Weglio S.r.l. All rights reserved.</p>
           <div className="flex gap-4">
-            <span>VAT: SE 123456789012</span>
-            <span>Registered in Sweden</span>
+            <span>P.IVA: IT 04829317461</span>
+            <span>Registered in Italy</span>
           </div>
         </div>
       </div>

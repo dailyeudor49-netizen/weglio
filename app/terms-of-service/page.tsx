@@ -91,13 +91,13 @@ export default function TermsOfServicePage() {
             <div>
               <h2 className="text-xl font-bold text-gray-900 mb-3">10. Contact Information</h2>
               <p className="text-gray-600">
-                Weglio AB<br />
-                34 Drottninggatan<br />
-                Stockholm 111 51<br />
-                Sweden<br />
-                Email: info@weglio.com<br />
-                VAT: SE 123456789012<br />
-                Registered in Sweden
+                Weglio S.r.l.<br />
+                Via Torino 68<br />
+                20123 Milano<br />
+                Italia<br />
+                Email: info@weglio.it<br />
+                P.IVA: IT 04829317461<br />
+                Registered in Italy
               </p>
             </div>
           </div>
